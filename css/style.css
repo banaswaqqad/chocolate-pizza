@@ -1,0 +1,18 @@
+header nav 
+{
+    float: left;
+    margin: 2px;
+}
+
+header nav section ul {
+
+    float: right;
+    margin-top: 2.5em;
+    margin-left: 1px
+    
+  
+}
+header nav ul li {
+    display: inline-block;
+  
+  }
