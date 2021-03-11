@@ -146,7 +146,9 @@ main section :last-child
     padding-right: 80px;
 }
 
-
+footer img:first-child{
+    display: inline-block;
+  }
 
 
 
